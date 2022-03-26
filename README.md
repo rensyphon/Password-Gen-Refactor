@@ -12,7 +12,7 @@ The index.html file may be run directly from editor or viewed live at https://gi
 
 ## Usage
 
-The live results can be viewed in browser by navigating to https://rensyphon.github.io/Refactoring-HTML-CSS/. Screenshot:
+The live results can be viewed in browser by navigating to https://rensyphon.github.io/Password-Gen-Refactor/. Screenshot:
 
     ![alt text](assets/images/03-javascript-homework-demo.png)
 
